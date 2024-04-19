@@ -1,2 +1,2 @@
-# ts-gyan as in TypeScrip Gyan
+# ts-gyan as in TypeScript Gyan
 
