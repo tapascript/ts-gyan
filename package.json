@@ -1,0 +1,14 @@
+{
+  "name": "ts-gyan",
+  "version": "1.0.0",
+  "description": "A learning project to pick on TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tapas Adhikary",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.4.4"
+  }
+}
