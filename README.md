@@ -13,3 +13,10 @@ The code from this repository is used in the [tapaScript YouTube channel](https:
 
 That's it. Now start coding TypeScript. Happy Learning!
 
+## 🫶 Support
+Liked it? You can show your support with a STAR(⭐).
+
+### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/tapascript/ts-gyan?limit=15)](https://github.com/tapascript/ts-gyan/stargazers)
+
