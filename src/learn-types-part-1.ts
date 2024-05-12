@@ -68,7 +68,7 @@ printColor({name: "white", index:1});
 
 // Union
 
-function getPosition(position: number | string) {
+export function getPosition(position: number | string) {
 
   if (typeof position === "string") {
     console.log(position.split(" "));
