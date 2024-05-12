@@ -7,7 +7,7 @@
     return typeof value === 'number';
   }
 
-  function doSomething(value: any) {
+  export function doSomething(value: any) {
     if(isNumber(value)) {
       return value.toFixed(2);
     }
